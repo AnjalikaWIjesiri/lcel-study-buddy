@@ -12,11 +12,10 @@ You paste your study notes (or upload a PDF), and the app:
 
 🗂️ Project Structure
 
-lcel-study-buddy/
-├── main.py  
-│          
-├── app.py
-│           
+lcel-study-buddy
+
+├── main.py        
+├── app.py         
 ├── requirements.txt
 ├── .env                 
 ├── .gitignore
